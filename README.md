@@ -1,7 +1,7 @@
 # Computer Vision Nanodegree
 
 by [Udacity](https://www.udacity.com/)<br/>
-##Introduction
+## Introduction
 This program is designed to give you The cuting-edge Computer Vision theroy and programming techniques to apply them in various Real-World application and the skills you need to pursue a new role to your career as a Computer Vision Engineer.  
 
 
@@ -25,7 +25,9 @@ This program is designed to give you The cuting-edge Computer Vision theroy and 
   Using Long short-term memory (LSTM) and Convolutional Neural Network (CNN), we built a model trained on Microsoft Common Objects in Context dataset (COCO) which can extract features from an input image using CNN then convert this features into caption using LSTM.<br/>
   
   
-  ![a man riding a horse drawn carriage on a street .](https://user-images.githubusercontent.com/47199425/85957267-43aa0f80-b98c-11ea-8a10-f0118bf1f7c0.png)  ![a group of people standing on top of a sandy beach . ](https://user-images.githubusercontent.com/47199425/85957351-e6628e00-b98c-11ea-8bdc-460b4d3650dd.png)
+  ![](https://user-images.githubusercontent.com/47199425/85957453-deefb480-b98d-11ea-93d3-008a8f957ebe.png)  ![](https://user-images.githubusercontent.com/47199425/85957480-f333b180-b98d-11ea-9001-ef134b40baf1.png)
+
+
 
 
   3. [**SLAM**](https://github.com/MohamedAskar/Computer-Vision-Nanodegree/tree/master/3.%20SLAM)
