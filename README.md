@@ -13,7 +13,7 @@ This program is designed to give you The cuting-edge Computer Vision theroy and 
   1. [**Facial Keypoints Detection**](https://github.com/MohamedAskar/Computer-Vision-Nanodegree/tree/master/1.%20Facial%20Keypoints%20Detector)<br/>
   
   
-  In this project, We try to build a model using Haar Cascading algorithm and a Convolutional Neural Network (CNN) that can predict Facial Keypoints. The model takes an image with any number of faces on it and it predicts for each face the 68 distingusing keypoint.<br/>
+  - In this project, We try to build a model using Haar Cascading algorithm and a Convolutional Neural Network (CNN) that can predict Facial Keypoints. The model takes an image with any number of faces on it and it predicts for each face the 68 distingusing keypoint.<br/>
   
   
   ![](https://user-images.githubusercontent.com/47199425/85956298-671d8c00-b985-11ea-9449-2be79b15d86a.png)<br/>
@@ -22,11 +22,10 @@ This program is designed to give you The cuting-edge Computer Vision theroy and 
   2. [**Image Captioning**](https://github.com/MohamedAskar/Computer-Vision-Nanodegree/tree/master/2.%20Image%20Captioning)<br/>
   
   
-  Using Long short-term memory (LSTM) and Convolutional Neural Network (CNN), we built a model trained on Microsoft Common Objects in Context dataset (COCO) which can extract features from an input image using CNN then convert this features into caption using LSTM.<br/>
+  - Using Long short-term memory (LSTM) and Convolutional Neural Network (CNN), we built a model trained on Microsoft Common Objects in Context dataset (COCO) which can extract features from an input image using CNN then convert this features into caption using LSTM.<br/>
   
   
-  ![](https://user-images.githubusercontent.com/47199425/85957453-deefb480-b98d-11ea-93d3-008a8f957ebe.png)  ![](https://user-images.githubusercontent.com/47199425/85957480-f333b180-b98d-11ea-9001-ef134b40baf1.png)
-
+ ![](https://user-images.githubusercontent.com/47199425/85957480-f333b180-b98d-11ea-9001-ef134b40baf1.png)  ![](https://user-images.githubusercontent.com/47199425/85957453-deefb480-b98d-11ea-93d3-008a8f957ebe.png) 
 
 
 
