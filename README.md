@@ -29,7 +29,15 @@ This program is designed to give you The cuting-edge Computer Vision theroy and 
 
 
 
-  3. [**SLAM**](https://github.com/MohamedAskar/Computer-Vision-Nanodegree/tree/master/3.%20SLAM)
+  3. [**SLAM**](https://github.com/MohamedAskar/Computer-Vision-Nanodegree/tree/master/3.%20SLAM)<br/>
   
+  
+  
+  - In this project, we implement Simultaneous Localization and Mapping (SLAM) for a 2D world. We gather data from sensors and motion using simulated robot to create a map of an environment. SLAM gives us a way to track the location of a robot in the world in real-time and identify the locations of landmarks surround it.<br/>
+  
+  
+  
+![Last pose:  (5.954003287856551, 12.454091677416208)](https://user-images.githubusercontent.com/47199425/85957654-638f0280-b98f-11ea-8560-4428a0317e56.png)
+
   
 
